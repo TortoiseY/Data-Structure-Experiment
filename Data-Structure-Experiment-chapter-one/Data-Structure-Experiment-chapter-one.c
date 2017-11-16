@@ -1,7 +1,4 @@
 #pragma warning(disable:4996) 
-
-
-
 /* Linear Table On Sequence Structure */
 #include <stdio.h>
 #include <malloc.h>
